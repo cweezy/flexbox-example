@@ -1,0 +1,8 @@
+.container {
+  flex-wrap: wrap;
+  width: 300px;
+}
+
+.item {
+  width: 120px;
+}

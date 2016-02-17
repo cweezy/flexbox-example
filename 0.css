@@ -1,0 +1,12 @@
+.container {
+  display: inline-flex;
+  background: lightBlue;
+  width: 600px;
+}
+.item {
+  font-size: 20px;
+  background: lightGreen;
+  border: 4px solid navy;
+  margin: 4px;
+  padding: 4px;
+}

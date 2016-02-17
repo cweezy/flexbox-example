@@ -1,0 +1,12 @@
+.item {
+  font-size: 16px;
+  height: 50px;
+  width: 180px;
+}
+.item.item-1 {
+  flex-shrink: 3;
+}
+
+.item.item-4 {
+  flex-shrink: 2;
+}

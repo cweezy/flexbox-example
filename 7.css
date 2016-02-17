@@ -1,0 +1,11 @@
+.item.item-1, .item.item-3 {
+  flex-basis: 40px;
+}
+
+.item.item-2 {
+  flex-basis: 80px;
+}
+
+.item.item-4, .item.item-5 {
+  flex-grow: 2;
+}
